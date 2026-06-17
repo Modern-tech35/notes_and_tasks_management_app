@@ -20,4 +20,6 @@ Localization: AR / EN / FR
 
 Notifications: Flutter Local Notifications
 
+this is the full video of the app;
+
 https://github.com/user-attachments/assets/7480d6fb-9424-43e1-9633-102a03cbdc88
