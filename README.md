@@ -1,4 +1,5 @@
  Notes & Task Management
+ 
 A Modern Flutter & Android App for Notes & Task Management.
 ✨ Core Features
 🔔 Smart Reminders: Instant notifications for Done and Undone tasks to keep you on track.
