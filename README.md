@@ -1,18 +1,23 @@
-# note_app_roocode
+ Notes & Task Management
+A Modern Flutter & Android App for Notes & Task Management.
+✨ Core Features
+🔔 Smart Reminders: Instant notifications for Done and Undone tasks to keep you on track.
 
-A new Flutter project.
+🌐 3 Languages (AR / EN / FR): Full multilingual support with seamless RTL/LTR layout switching.
 
-## Getting Started
+📁 Multi-Format Saving: Save and organize notes with support for different file formats.
 
-This project is a starting point for a Flutter application.
+⚡ Hive Local Storage: Ultra-fast, lightweight, and works 100% Offline (No internet required).
 
-A few resources to get you started if this is your first Flutter project:
+🎨 Modern Flutter UI: Beautiful, responsive design that adapts perfectly to any Android screen size (Phones & Tablets).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🛠️ Tech Stack
+Framework: Flutter (Android)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Database: Hive DB (Local & Fast)
+
+Localization: AR / EN / FR
+
+Notifications: Flutter Local Notifications
 
 https://github.com/user-attachments/assets/7480d6fb-9424-43e1-9633-102a03cbdc88
