@@ -25,4 +25,4 @@ Notifications: Flutter Local Notifications
 
 https://github.com/user-attachments/assets/7480d6fb-9424-43e1-9633-102a03cbdc88
 
-<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/c4306217-7eb4-4098-9347-7bc54665a050" />
+<img width="108" height="240" alt="Image" src="https://github.com/user-attachments/assets/c4306217-7eb4-4098-9347-7bc54665a050" />
