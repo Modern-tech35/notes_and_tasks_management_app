@@ -24,3 +24,5 @@ Notifications: Flutter Local Notifications
 - this is the full video of the app;
 
 https://github.com/user-attachments/assets/7480d6fb-9424-43e1-9633-102a03cbdc88
+
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/c4306217-7eb4-4098-9347-7bc54665a050" />
